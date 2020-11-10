@@ -1,1 +1,1 @@
-# KSU_practice
+# Bukhashov Berik
