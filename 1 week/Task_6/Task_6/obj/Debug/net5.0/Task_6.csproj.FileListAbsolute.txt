@@ -1,0 +1,16 @@
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\Task_6.exe
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\Task_6.deps.json
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\Task_6.runtimeconfig.json
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\Task_6.runtimeconfig.dev.json
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\Task_6.dll
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\ref\Task_6.dll
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\bin\Debug\net5.0\Task_6.pdb
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.csprojAssemblyReference.cache
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.AssemblyInfoInputs.cache
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.AssemblyInfo.cs
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.csproj.CoreCompileInputs.cache
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.dll
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\ref\Task_6.dll
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.pdb
+C:\Users\Berik Bukhashov\Desktop\project\Task_6\Task_6\obj\Debug\net5.0\Task_6.genruntimeconfig.cache
