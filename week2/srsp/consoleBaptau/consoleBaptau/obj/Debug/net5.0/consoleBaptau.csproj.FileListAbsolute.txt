@@ -1,0 +1,16 @@
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\consoleBaptau.exe
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\consoleBaptau.deps.json
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\consoleBaptau.runtimeconfig.json
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\consoleBaptau.runtimeconfig.dev.json
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\consoleBaptau.dll
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\ref\consoleBaptau.dll
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\bin\Debug\net5.0\consoleBaptau.pdb
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.csprojAssemblyReference.cache
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.AssemblyInfoInputs.cache
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.AssemblyInfo.cs
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.csproj.CoreCompileInputs.cache
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.dll
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\ref\consoleBaptau.dll
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.pdb
+C:\Users\Berik Bukhashov\Desktop\task\consoleBaptau\consoleBaptau\obj\Debug\net5.0\consoleBaptau.genruntimeconfig.cache
