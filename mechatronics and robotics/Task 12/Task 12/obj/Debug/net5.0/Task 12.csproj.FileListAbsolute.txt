@@ -1,0 +1,16 @@
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\Task 12.exe
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\Task 12.deps.json
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\Task 12.runtimeconfig.json
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\Task 12.runtimeconfig.dev.json
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\Task 12.dll
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\ref\Task 12.dll
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\bin\Debug\net5.0\Task 12.pdb
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.csprojAssemblyReference.cache
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.AssemblyInfoInputs.cache
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.AssemblyInfo.cs
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.csproj.CoreCompileInputs.cache
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.dll
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\ref\Task 12.dll
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.pdb
+F:\projects\cs\git\KSU_practice\mechatronics and robotics\Task 12\Task 12\obj\Debug\net5.0\Task 12.genruntimeconfig.cache
