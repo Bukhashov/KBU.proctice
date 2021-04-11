@@ -1,0 +1,16 @@
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\menu.exe
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\menu.deps.json
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\menu.runtimeconfig.json
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\menu.runtimeconfig.dev.json
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\menu.dll
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\ref\menu.dll
+F:\projects\cs\git\KSU_practice\week10\menu\menu\bin\Debug\net5.0-windows\menu.pdb
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.csprojAssemblyReference.cache
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.AssemblyInfoInputs.cache
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.AssemblyInfo.cs
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.csproj.CoreCompileInputs.cache
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.dll
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\ref\menu.dll
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.pdb
+F:\projects\cs\git\KSU_practice\week10\menu\menu\obj\Debug\net5.0-windows\menu.genruntimeconfig.cache

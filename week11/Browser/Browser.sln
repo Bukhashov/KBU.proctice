@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Browser", "Browser\Browser.csproj", "{AFFCB603-0A90-467A-9684-AF4E3E4D687F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFCB603-0A90-467A-9684-AF4E3E4D687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFCB603-0A90-467A-9684-AF4E3E4D687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFCB603-0A90-467A-9684-AF4E3E4D687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFCB603-0A90-467A-9684-AF4E3E4D687F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
