@@ -1,0 +1,16 @@
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\encryption.exe
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\encryption.deps.json
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\encryption.runtimeconfig.json
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\encryption.runtimeconfig.dev.json
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\encryption.dll
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\ref\encryption.dll
+F:\projects\cs\git\KSU_practice\encryption\encryption\bin\Debug\net5.0\encryption.pdb
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.csprojAssemblyReference.cache
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.AssemblyInfoInputs.cache
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.AssemblyInfo.cs
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.csproj.CoreCompileInputs.cache
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.dll
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\ref\encryption.dll
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.pdb
+F:\projects\cs\git\KSU_practice\encryption\encryption\obj\Debug\net5.0\encryption.genruntimeconfig.cache
