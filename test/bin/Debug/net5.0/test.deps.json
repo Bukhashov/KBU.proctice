@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "exchangeRates/1.0.0": {
+      "test/1.0.0": {
         "runtime": {
-          "exchangeRates.dll": {}
+          "test.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "exchangeRates/1.0.0": {
+    "test/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

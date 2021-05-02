@@ -26,7 +26,7 @@ namespace exchangeRates
             }
             
             // start program
-            Console.Write("Hello user ... \nProject name: Exchange Rates\nthis is a console program for exchange rates\n\ninfo:: --help or -h\n\n1| currency Converter\n2| all exchange rates");
+            Console.Write("Hello user ... \nProject name: Exchange Rates\nthis is a console program for exchange rates\ninfo:: --help or -h ");
             fancmd();
 
         }
@@ -35,14 +35,15 @@ namespace exchangeRates
         {
             Console.Write("\n>>> ");
             cmd = Console.ReadLine();
+            cmd = cmd.ToLower();
 
             if (cmd == "-h" || cmd == "--help" || cmd == "help")
             {
                 cmdHelp();
-            }else if (cmd == "1" || cmd == "Converter" || cmd == "converter" || cmd == "CONVERTER")
+            }else if (cmd == "start")
             {
                 PrasingXml();
-            }else if (cmd == "2" || cmd == "all")
+            }else if (cmd == "all")
             {
                 allValute();
             }
@@ -57,32 +58,18 @@ namespace exchangeRates
 
         static void PrasingXml()
         {
+            
+            
             XElement contects = XElement.Parse(response);
             List<XElement> Valute = contects.Elements("Valute").ToList();
             
-            Console.Write("First Valute: ");
-            string firstValuteName = Console.ReadLine();
-            // firstValuteName = firstValuteName.ToUpper();
-        
-            Console.Write("Second Valute: ");
-            string secondValuteName = Console.ReadLine();
-            // secondValuteName = secondValuteName.ToUpper();
-            
-            int firstValute = 0, secondValute = 0;
-
             for (int i = 0; i < Valute.Count; i++)
             {
-                if (Valute[i].Element("CharCode").Value == firstValuteName)
+                if (Valute[i].Element("NumCode").Value == "051")
                 {
-                    firstValute = int.Parse(Valute[i].Element("Value").Value.Replace(",", "."));
-                }
-                else if(Valute[i].Element("CharCode").Value == secondValuteName){
-
-                    secondValute = int.Parse(Valute[i].Element("Value").Value.Replace(",", "."));
+                    //Console.Write(Valute[i]);
                 }
             }
-
-            Console.Write(firstValuteName + ": " + firstValute, secondValuteName + ": " + secondValute);
            
         }
 
@@ -91,16 +78,18 @@ namespace exchangeRates
             XElement contects = XElement.Parse(response);
             List<XElement> Valute = contects.Elements("Valute").ToList();
 
-            Console.Write("Code\tValute\tNominal\tcourse\t\tcountry\n");
+            Console.Write("");
             for (int i = 0; i < Valute.Count; i++)
             {
-                Console.Write(Valute[i].Element("NumCode").Value + "\t" 
-                + Valute[i].Element("CharCode").Value + "\t"
+                Console.Write(Valute[i].Element("CharCode").Value + "\t" 
                 + Valute[i].Element("Nominal").Value + "\t" 
-                + Valute[i].Element("Value").Value + "\t\t" 
+                + Valute[i].Element("Value").Value + "\t" 
                 + Valute[i].Element("Name").Value + "\n" );
-            }   
-            fancmd();
+            }
         }
+        
+        
+
+        
     }
 }
