@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
-using System.Text;
 using System.Xml.Linq;
 
 namespace exchangeRates
@@ -11,7 +10,7 @@ namespace exchangeRates
     class Program
     {
         static string cmd,
-            response;
+            response, database;
         
         static void Main(string[] args)
         {
@@ -35,16 +34,21 @@ namespace exchangeRates
         {
             Console.Write("\n>>> ");
             cmd = Console.ReadLine();
+            cmd = cmd.ToLower();
 
             if (cmd == "-h" || cmd == "--help" || cmd == "help")
             {
                 cmdHelp();
-            }else if (cmd == "1" || cmd == "Converter" || cmd == "converter" || cmd == "CONVERTER")
+            }else if (cmd == "1" || cmd == "converter"  || cmd == "start")
             {
                 PrasingXml();
             }else if (cmd == "2" || cmd == "all")
             {
                 allValute();
+            }else if (cmd == "3" || cmd == "exit"){
+                Environment.Exit(-1);
+            }else {
+                Console.WriteLine("select number command or write command");
             }
         }
         
@@ -62,28 +66,48 @@ namespace exchangeRates
             
             Console.Write("First Valute: ");
             string firstValuteName = Console.ReadLine();
-            // firstValuteName = firstValuteName.ToUpper();
+            firstValuteName = firstValuteName.ToUpper();
         
             Console.Write("Second Valute: ");
             string secondValuteName = Console.ReadLine();
-            // secondValuteName = secondValuteName.ToUpper();
+            secondValuteName = secondValuteName.ToUpper();
             
-            int firstValute = 0, secondValute = 0;
+            float firstValute = 0, secondValute = 0,
+                firstValuteNominal = 0, secondValuteNominal = 0;
 
             for (int i = 0; i < Valute.Count; i++)
             {
                 if (Valute[i].Element("CharCode").Value == firstValuteName)
                 {
-                    firstValute = int.Parse(Valute[i].Element("Value").Value.Replace(",", "."));
+                    string FirValStr = Valute[i].Element("Value").Value;
+                    firstValute = float.Parse(FirValStr.Replace(",", "."));
+
+                    firstValuteNominal = float.Parse(Valute[i].Element("Nominal").Value);
                 }
                 else if(Valute[i].Element("CharCode").Value == secondValuteName){
 
-                    secondValute = int.Parse(Valute[i].Element("Value").Value.Replace(",", "."));
+                    string SecValStr = Valute[i].Element("Value").Value;
+                    secondValute = float.Parse(SecValStr.Replace(",", "."));
+
+                    secondValuteNominal = float.Parse(Valute[i].Element("Nominal").Value);
                 }
             }
 
-            Console.Write(firstValuteName + ": " + firstValute, secondValuteName + ": " + secondValute);
-           
+            float frSumOneNominal =  firstValute / firstValuteNominal,
+                secSumOneNominal = secondValute / secondValuteNominal,
+                summa = 0;
+
+            summa = frSumOneNominal / secSumOneNominal;
+            
+            Console.Write(firstValuteName + ": 1\t\t" + secondValuteName + ": " + summa + "\n");
+
+            Console.Write("Summa " + firstValuteName + ": ");
+            float converSumma = float.Parse(Console.ReadLine()),
+            converSummaResul = converSumma * summa;
+
+            Console.Write(firstValuteName + ": " + converSumma  + " == " + secondValuteName + ": " + converSummaResul);
+
+            fancmd();
         }
 
         static void allValute()
