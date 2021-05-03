@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\cs\\git\\KSU_practice\\encryption\\encryption\\encryption.csproj": {}
+    "/home/simple/Desktop/project/KBU.proctice/encryption/encryption.csproj": {}
   },
   "projects": {
-    "F:\\projects\\cs\\git\\KSU_practice\\encryption\\encryption\\encryption.csproj": {
+    "/home/simple/Desktop/project/KBU.proctice/encryption/encryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\cs\\git\\KSU_practice\\encryption\\encryption\\encryption.csproj",
+        "projectUniqueName": "/home/simple/Desktop/project/KBU.proctice/encryption/encryption.csproj",
         "projectName": "encryption",
-        "projectPath": "F:\\projects\\cs\\git\\KSU_practice\\encryption\\encryption\\encryption.csproj",
-        "packagesPath": "C:\\Users\\Berik Bukhashov\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\cs\\git\\KSU_practice\\encryption\\encryption\\obj\\",
+        "projectPath": "/home/simple/Desktop/project/KBU.proctice/encryption/encryption.csproj",
+        "packagesPath": "/home/simple/.nuget/packages/",
+        "outputPath": "/home/simple/Desktop/project/KBU.proctice/encryption/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Berik Bukhashov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/simple/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
